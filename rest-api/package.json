@@ -1,0 +1,20 @@
+{
+  "name": "rest-api",
+  "version": "0.0.1",
+  "description": "rest api for real-time-chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sherstuk Ihor and Kucher-Savinskiy Nazar",
+  "dependencies": {
+    "cross-blob": "^1.2.3",
+    "fastify": "^2.14.1",
+    "fastify-cors": "^3.0.3",
+    "fastify-mongodb": "^2.0.0",
+    "fastify-plugin": "^1.6.1",
+    "fastify-websocket": "^1.1.2",
+    "pg": "^8.2.1",
+    "tap": "^14.10.7"
+  }
+}
