@@ -1,2 +1,3 @@
 # real-time-chat
-Real-time chat app built with react, fastify, electron and postgres
+Real-time chat app built with react, fastify, electron and mongodb
+
